@@ -1,4 +1,4 @@
-# Nuxtjs Custom SBAdmin template + Element UI
+# Nuxtjs + Custom SBAdmin + Element UI + PugJS
 This is my personal template. I love minimalist
 
 ## Build Setup
