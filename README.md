@@ -1,6 +1,5 @@
-# erp-bat-frontend
-
-> Frontend for BAT ERP
+# Nuxtjs Custom SBAdmin template + Element UI
+This is my personal template. I love minimalist
 
 ## Build Setup
 
